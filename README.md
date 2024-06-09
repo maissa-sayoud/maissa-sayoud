@@ -1,7 +1,8 @@
 <h1 align="center">Salam 👋, I'm Maissa SAYOUD</h1>
-<h3 align="center">I am a passionate student specializing in Artificial Intelligence at USTHB, Algeria. I am dedicated to exploring the vast potentials of AI and machine learning. My journey involves working on various projects, and I am currently focused on training models for different applications, including robotics, text, image and sound processing. 
-
-💡 On this GitHub profile, I am sharing repositories to help students with their projects. Note that I am not sharing my personal projects here ^^ !</h3>
+<h3 align="center">I am a passionate student specializing in Artificial Intelligence at USTHB, Algeria. I am dedicated to exploring the vast potentials of AI and machine learning. My journey involves working on various projects, and I am currently focused on training models for different applications, including robotics, text, image and sound processing.<br><br>
+💡 On this GitHub profile, I am sharing repositories to help students with their projects ^^ ! 
+<br>
+Note that I am not sharing my personal projects here UwU !</h3>
 
 - 🌱 I’m currently learning **Advanced neural network architectures - Reinforcement learning - Training models for sound recognition - Audio signal processing**
 
