@@ -3,7 +3,7 @@
 💡 On this GitHub profile, I am sharing repositories to help students with their projects ^^ ! 
 <br>
 Note that I am not sharing my personal projects here UwU !</h3>
-
+<br>
 - 🌱 I’m currently learning **Advanced neural network architectures - Reinforcement learning - Training models for sound recognition - Audio signal processing**
 
 - 💬 Ask me about **Advanced Data structures and Algorithms - Metaheuristics - Assembly - Machine learning and Deep learning**
