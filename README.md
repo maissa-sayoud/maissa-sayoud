@@ -19,7 +19,6 @@ Note that I am not sharing my personal projects here !</h3>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maissa-sayoud&show_icons=true&locale=en&layout=compact" alt="maissa-sayoud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maissa-sayoud&show_icons=true&locale=en" alt="maissa-sayoud" /></p>
 
